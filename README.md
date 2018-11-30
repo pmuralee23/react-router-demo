@@ -1,4 +1,4 @@
 # ps-router-demo
 
-A project used to demo the capabilities of React Router 4.
+A sample project used to demo the capabilities of React Router 4.
 
