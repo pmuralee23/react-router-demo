@@ -1,6 +1,7 @@
 :host {
     color: #626262;
 }
+
 a.activeNavLink {
     font-weight: bold;
     font-size: 18px;
